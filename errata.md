@@ -105,3 +105,5 @@ javascripts: [ "/javascripts/jquery.js", "html/inc/click_more.js" ]
   [bug2-153]: http://redmine.ossxp.com/redmine/issues/153
   [bug2-155]: http://redmine.ossxp.com/redmine/issues/155
   [bug2-159]: http://redmine.ossxp.com/redmine/issues/159
+
+ ## 2015/9/9 14:27
